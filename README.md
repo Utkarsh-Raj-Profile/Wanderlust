@@ -20,3 +20,5 @@ ScreenShots:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3d3b6cf0-eec0-42ee-8148-edb2dbef8b9f" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f9a9115b-3f17-42f5-a9d0-d7fd95d59738" />
+
+It takes some time to load, please be patience.
