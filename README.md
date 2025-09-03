@@ -6,7 +6,7 @@ The Link for the hosted website is given below,
 
 https://wanderlust-f7qe.onrender.com/listings
 
-ScreenShots:
+**Screenshot:**
 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6d5150b3-5dad-48ad-b3a4-1da1efdcdff3" />
