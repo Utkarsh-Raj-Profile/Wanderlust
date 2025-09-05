@@ -8,9 +8,10 @@ https://wanderlust-f7qe.onrender.com/listings
 
 **Screenshot:**
 
-
+**HomePage**
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6d5150b3-5dad-48ad-b3a4-1da1efdcdff3" />
 
+**Details**
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aac4a2f9-24a7-409b-ac22-c47cd6137ef7" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/526b5269-ee7a-49e9-9ba7-0cc09665946d" />
