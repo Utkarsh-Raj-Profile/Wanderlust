@@ -2,13 +2,6 @@
 
 This is a full stack project build using mongodb,EJS,Bootstrap CSS, cloudinary, mapbox and many different npm packages;
 
-Wanna see this site in action?
-
-The Link for the hosted website is given below,
-
-
-**https://wanderlust-f7qe.onrender.com/listings**
-
 
 
 ### Screenshot:
