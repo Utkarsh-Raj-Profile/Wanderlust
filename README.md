@@ -1,6 +1,6 @@
 ### Wanderlust
 
-This is a full stack project build using mongodb,EJS,Bootstrap CSS, cloudinary, mapbox and many different npm packages;
+This is a full stack project build using mongodb,EJS,Bootstrap CSS, cloudinary, mapbox and many different npm packages.
 
 
 
