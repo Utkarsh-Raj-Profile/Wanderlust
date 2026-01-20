@@ -11,7 +11,6 @@ This is a full stack project build using mongodb,EJS,Bootstrap CSS, cloudinary, 
 **HomePage**
 
 
-
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6d5150b3-5dad-48ad-b3a4-1da1efdcdff3" />
 
 **Details**
