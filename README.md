@@ -68,13 +68,10 @@ A full-stack travel accommodation and property listing platform inspired by Airb
 
 # 📸 Project Preview
 
-## Home Page
-
-<img width="100%" alt="WanderLust Home" src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop" />
-
 ## Listings Page
 
-<img width="100%" alt="Listings" src="https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1200&auto=format&fit=crop" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2d4a6f6b-9a24-48a2-a967-c6c9e718d34a" />
+
 
 ---
 
